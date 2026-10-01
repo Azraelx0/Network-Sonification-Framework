@@ -1,5 +1,5 @@
 {
-  "name": "Forest (Mapping A, Schafer-derived)",
+  "name": "Forest )",
   "notes": "Keynote: wind rises with overall packet rate. Signals: each protocol family is a species. Bare SYNs and RSTs are twig snaps. Order matters: first matching layer wins.",
   "bed": "wind",
   "protocols": [
