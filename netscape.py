@@ -7,7 +7,7 @@ the sounds of a place (a forest, a coastline). The mapping from packets to
 sounds lives in a JSON file so it can be designed, documented, and versioned
 separately from the code.
 
-How the mapping works (Schafer's categories):
+How the mapping works:
   KEYNOTE  - overall packet rate drives a continuous bed (wind, surf).
   SIGNALS  - each protocol family becomes a "species" of discrete sound.
              Packet size sets pitch (bigger packets = lower sounds).
