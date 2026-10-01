@@ -1,1 +1,15 @@
-
+{
+  "name": "Coastal",
+  "notes": "Keynote: surf swells with overall packet rate. TCP = gulls, UDP/DNS = water lapping, ARP = buoy bell, ICMP = foghorn. Bare SYNs and RSTs are pebble clicks.",
+  "bed": "surf",
+  "protocols": [
+    ["dns", "lap"],
+    ["mdns", "lap"],
+    ["arp", "bell"],
+    ["icmp", "foghorn"],
+    ["tcp", "gull"],
+    ["udp", "lap"]
+  ],
+  "default": "lap",
+  "flags": { "syn": "snap", "rst": "snap" }
+}
