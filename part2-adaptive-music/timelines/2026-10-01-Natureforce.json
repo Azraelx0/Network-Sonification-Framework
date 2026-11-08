@@ -1,0 +1,2482 @@
+[
+ {
+  "t": 0.0,
+  "time": "19:27:27",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "62 new flows",
+  "dest": null,
+  "flows": 62
+ },
+ {
+  "t": 0.491,
+  "time": "19:27:27",
+  "type": "info",
+  "state": "baseline",
+  "family": null,
+  "detail": "ET INFO Microsoft Connection Test",
+  "dest": "23.219.87.72",
+  "flows": null
+ },
+ {
+  "t": 10.0,
+  "time": "19:27:37",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "20 new flows",
+  "dest": null,
+  "flows": 20
+ },
+ {
+  "t": 20.0,
+  "time": "19:27:47",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "13 new flows",
+  "dest": null,
+  "flows": 13
+ },
+ {
+  "t": 30.0,
+  "time": "19:27:57",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "8 new flows",
+  "dest": null,
+  "flows": 8
+ },
+ {
+  "t": 40.0,
+  "time": "19:28:07",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "74 new flows",
+  "dest": null,
+  "flows": 74
+ },
+ {
+  "t": 50.0,
+  "time": "19:28:17",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 60.0,
+  "time": "19:28:27",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "24 new flows",
+  "dest": null,
+  "flows": 24
+ },
+ {
+  "t": 70.0,
+  "time": "19:28:37",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 80.0,
+  "time": "19:28:47",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 90.0,
+  "time": "19:28:57",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "8 new flows",
+  "dest": null,
+  "flows": 8
+ },
+ {
+  "t": 100.0,
+  "time": "19:29:07",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 110.0,
+  "time": "19:29:17",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 120.0,
+  "time": "19:29:27",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 130.0,
+  "time": "19:29:37",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 140.0,
+  "time": "19:29:47",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 150.0,
+  "time": "19:29:57",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 160.0,
+  "time": "19:30:07",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 170.0,
+  "time": "19:30:17",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 180.0,
+  "time": "19:30:27",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 189.532,
+  "time": "19:30:36",
+  "type": "download",
+  "state": "infection",
+  "family": null,
+  "detail": "ET INFO Executable Download from dotted-quad Host",
+  "dest": "107.175.82.242",
+  "flows": null
+ },
+ {
+  "t": 189.532,
+  "time": "19:30:36",
+  "type": "info",
+  "state": "infection",
+  "family": null,
+  "detail": "ET HUNTING curl User-Agent to Dotted Quad",
+  "dest": "107.175.82.242",
+  "flows": null
+ },
+ {
+  "t": 189.676,
+  "time": "19:30:37",
+  "type": "download",
+  "state": "infection",
+  "family": null,
+  "detail": "ET INFO PE EXE or DLL Windows file download HTTP",
+  "dest": "10.10.1.128",
+  "flows": null
+ },
+ {
+  "t": 190.0,
+  "time": "19:30:37",
+  "type": "activity",
+  "state": "infection",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 196.772,
+  "time": "19:30:44",
+  "type": "info",
+  "state": "infection",
+  "family": null,
+  "detail": "ET INFO Observed Google DNS over HTTPS Domain (dns .google in TLS SNI)",
+  "dest": "8.8.4.4",
+  "flows": null
+ },
+ {
+  "t": 196.974,
+  "time": "19:30:44",
+  "type": "c2",
+  "state": "c2",
+  "family": "RMS",
+  "detail": "C2 session (flow)",
+  "dest": "195.63.128.106",
+  "flows": null
+ },
+ {
+  "t": 200.0,
+  "time": "19:30:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 207.898,
+  "time": "19:30:55",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA STREAM excessive retransmissions",
+  "dest": "10.10.1.128",
+  "flows": null
+ },
+ {
+  "t": 210.0,
+  "time": "19:30:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 220.0,
+  "time": "19:31:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 230.0,
+  "time": "19:31:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 240.0,
+  "time": "19:31:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 250.0,
+  "time": "19:31:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 260.0,
+  "time": "19:31:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 270.0,
+  "time": "19:31:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 280.0,
+  "time": "19:32:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 290.0,
+  "time": "19:32:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 300.0,
+  "time": "19:32:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 310.0,
+  "time": "19:32:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "8 new flows",
+  "dest": null,
+  "flows": 8
+ },
+ {
+  "t": 320.0,
+  "time": "19:32:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 330.0,
+  "time": "19:32:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 340.0,
+  "time": "19:33:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 350.0,
+  "time": "19:33:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 360.0,
+  "time": "19:33:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 370.0,
+  "time": "19:33:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 380.0,
+  "time": "19:33:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 390.0,
+  "time": "19:33:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 400.0,
+  "time": "19:34:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 410.0,
+  "time": "19:34:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 420.0,
+  "time": "19:34:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 430.0,
+  "time": "19:34:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 440.0,
+  "time": "19:34:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 450.0,
+  "time": "19:34:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 460.0,
+  "time": "19:35:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 470.0,
+  "time": "19:35:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 480.0,
+  "time": "19:35:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 490.0,
+  "time": "19:35:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 500.0,
+  "time": "19:35:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 510.0,
+  "time": "19:35:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 520.0,
+  "time": "19:36:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 530.0,
+  "time": "19:36:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 540.0,
+  "time": "19:36:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 550.0,
+  "time": "19:36:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 560.0,
+  "time": "19:36:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 570.0,
+  "time": "19:36:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 580.0,
+  "time": "19:37:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 590.0,
+  "time": "19:37:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 600.0,
+  "time": "19:37:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 610.0,
+  "time": "19:37:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 620.0,
+  "time": "19:37:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 630.0,
+  "time": "19:37:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 640.0,
+  "time": "19:38:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 650.0,
+  "time": "19:38:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 660.0,
+  "time": "19:38:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 670.0,
+  "time": "19:38:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 680.0,
+  "time": "19:38:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 690.0,
+  "time": "19:38:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 700.0,
+  "time": "19:39:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 710.0,
+  "time": "19:39:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 720.0,
+  "time": "19:39:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 730.0,
+  "time": "19:39:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 740.0,
+  "time": "19:39:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 750.0,
+  "time": "19:39:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 760.0,
+  "time": "19:40:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 770.0,
+  "time": "19:40:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 780.0,
+  "time": "19:40:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 790.0,
+  "time": "19:40:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 800.0,
+  "time": "19:40:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 810.0,
+  "time": "19:40:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 820.0,
+  "time": "19:41:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 830.0,
+  "time": "19:41:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 840.0,
+  "time": "19:41:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 850.0,
+  "time": "19:41:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 860.0,
+  "time": "19:41:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 870.0,
+  "time": "19:41:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 880.0,
+  "time": "19:42:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 890.0,
+  "time": "19:42:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 900.0,
+  "time": "19:42:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 910.0,
+  "time": "19:42:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 920.0,
+  "time": "19:42:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 930.0,
+  "time": "19:42:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 940.0,
+  "time": "19:43:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 950.0,
+  "time": "19:43:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 960.0,
+  "time": "19:43:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 970.0,
+  "time": "19:43:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 980.0,
+  "time": "19:43:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 990.0,
+  "time": "19:43:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1000.0,
+  "time": "19:44:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1010.0,
+  "time": "19:44:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1020.0,
+  "time": "19:44:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1030.0,
+  "time": "19:44:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1040.0,
+  "time": "19:44:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1050.0,
+  "time": "19:44:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1060.0,
+  "time": "19:45:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 1070.0,
+  "time": "19:45:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1080.0,
+  "time": "19:45:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1090.0,
+  "time": "19:45:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1100.0,
+  "time": "19:45:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1110.0,
+  "time": "19:45:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1120.0,
+  "time": "19:46:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1130.0,
+  "time": "19:46:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1140.0,
+  "time": "19:46:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1150.0,
+  "time": "19:46:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1160.0,
+  "time": "19:46:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1170.0,
+  "time": "19:46:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1180.0,
+  "time": "19:47:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1190.0,
+  "time": "19:47:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1200.0,
+  "time": "19:47:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1210.0,
+  "time": "19:47:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1220.0,
+  "time": "19:47:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1230.0,
+  "time": "19:47:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1240.0,
+  "time": "19:48:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1250.0,
+  "time": "19:48:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 1260.0,
+  "time": "19:48:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1270.0,
+  "time": "19:48:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1280.0,
+  "time": "19:48:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1290.0,
+  "time": "19:48:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1300.0,
+  "time": "19:49:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1310.0,
+  "time": "19:49:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1320.0,
+  "time": "19:49:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1330.0,
+  "time": "19:49:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1340.0,
+  "time": "19:49:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1350.0,
+  "time": "19:49:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1360.0,
+  "time": "19:50:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1370.0,
+  "time": "19:50:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1380.0,
+  "time": "19:50:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1390.0,
+  "time": "19:50:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1400.0,
+  "time": "19:50:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1410.0,
+  "time": "19:50:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1420.0,
+  "time": "19:51:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1430.0,
+  "time": "19:51:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1440.0,
+  "time": "19:51:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1450.0,
+  "time": "19:51:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1460.0,
+  "time": "19:51:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1470.0,
+  "time": "19:51:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1480.0,
+  "time": "19:52:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1490.0,
+  "time": "19:52:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1500.0,
+  "time": "19:52:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1510.0,
+  "time": "19:52:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1520.0,
+  "time": "19:52:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1530.0,
+  "time": "19:52:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1540.0,
+  "time": "19:53:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1550.0,
+  "time": "19:53:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1560.0,
+  "time": "19:53:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 1570.0,
+  "time": "19:53:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1580.0,
+  "time": "19:53:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1590.0,
+  "time": "19:53:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1600.0,
+  "time": "19:54:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1610.0,
+  "time": "19:54:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1620.0,
+  "time": "19:54:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1630.0,
+  "time": "19:54:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1640.0,
+  "time": "19:54:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1650.0,
+  "time": "19:54:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "6 new flows",
+  "dest": null,
+  "flows": 6
+ },
+ {
+  "t": 1660.0,
+  "time": "19:55:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1670.0,
+  "time": "19:55:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1680.0,
+  "time": "19:55:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1690.0,
+  "time": "19:55:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1700.0,
+  "time": "19:55:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1710.0,
+  "time": "19:55:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1720.0,
+  "time": "19:56:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 1730.0,
+  "time": "19:56:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1740.0,
+  "time": "19:56:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1750.0,
+  "time": "19:56:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1760.0,
+  "time": "19:56:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1770.0,
+  "time": "19:56:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1780.0,
+  "time": "19:57:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1790.0,
+  "time": "19:57:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1800.0,
+  "time": "19:57:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 1810.0,
+  "time": "19:57:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1820.0,
+  "time": "19:57:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1830.0,
+  "time": "19:57:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1840.0,
+  "time": "19:58:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1850.0,
+  "time": "19:58:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1860.0,
+  "time": "19:58:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 1870.0,
+  "time": "19:58:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 1880.0,
+  "time": "19:58:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1890.0,
+  "time": "19:58:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1900.0,
+  "time": "19:59:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1910.0,
+  "time": "19:59:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1920.0,
+  "time": "19:59:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1930.0,
+  "time": "19:59:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1940.0,
+  "time": "19:59:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1950.0,
+  "time": "19:59:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1960.0,
+  "time": "20:00:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1970.0,
+  "time": "20:00:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1980.0,
+  "time": "20:00:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 1990.0,
+  "time": "20:00:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 2000.0,
+  "time": "20:00:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2010.0,
+  "time": "20:00:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2020.0,
+  "time": "20:01:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2030.0,
+  "time": "20:01:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2040.0,
+  "time": "20:01:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 2050.0,
+  "time": "20:01:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2060.0,
+  "time": "20:01:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 2070.0,
+  "time": "20:01:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2080.0,
+  "time": "20:02:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2090.0,
+  "time": "20:02:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2100.0,
+  "time": "20:02:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2110.0,
+  "time": "20:02:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "10 new flows",
+  "dest": null,
+  "flows": 10
+ },
+ {
+  "t": 2120.0,
+  "time": "20:02:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2130.0,
+  "time": "20:02:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2140.0,
+  "time": "20:03:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2150.0,
+  "time": "20:03:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2160.0,
+  "time": "20:03:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2170.0,
+  "time": "20:03:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 2180.0,
+  "time": "20:03:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 2190.0,
+  "time": "20:03:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2200.0,
+  "time": "20:04:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2210.0,
+  "time": "20:04:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2220.0,
+  "time": "20:04:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2230.0,
+  "time": "20:04:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2240.0,
+  "time": "20:04:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2250.0,
+  "time": "20:04:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2260.0,
+  "time": "20:05:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2270.0,
+  "time": "20:05:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2280.0,
+  "time": "20:05:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2290.0,
+  "time": "20:05:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "6 new flows",
+  "dest": null,
+  "flows": 6
+ },
+ {
+  "t": 2300.0,
+  "time": "20:05:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2310.0,
+  "time": "20:05:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2320.0,
+  "time": "20:06:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2330.0,
+  "time": "20:06:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2340.0,
+  "time": "20:06:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 2350.0,
+  "time": "20:06:37",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2360.0,
+  "time": "20:06:47",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2370.0,
+  "time": "20:06:57",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2380.0,
+  "time": "20:07:07",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2390.0,
+  "time": "20:07:17",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 2400.0,
+  "time": "20:07:27",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ }
+]

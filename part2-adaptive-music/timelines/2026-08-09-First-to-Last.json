@@ -1,0 +1,1172 @@
+[
+ {
+  "t": 0.0,
+  "time": "02:07:32",
+  "type": "info",
+  "state": "baseline",
+  "family": null,
+  "detail": "SURICATA HTTP Response excessive header repetition",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 0.0,
+  "time": "02:07:32",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "73 new flows",
+  "dest": null,
+  "flows": 73
+ },
+ {
+  "t": 0.997,
+  "time": "02:07:33",
+  "type": "info",
+  "state": "baseline",
+  "family": null,
+  "detail": "ET INFO Microsoft Connection Test",
+  "dest": "23.33.85.235",
+  "flows": null
+ },
+ {
+  "t": 10.0,
+  "time": "02:07:42",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "29 new flows",
+  "dest": null,
+  "flows": 29
+ },
+ {
+  "t": 20.0,
+  "time": "02:07:52",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "15 new flows",
+  "dest": null,
+  "flows": 15
+ },
+ {
+  "t": 30.0,
+  "time": "02:08:02",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 40.0,
+  "time": "02:08:12",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "58 new flows",
+  "dest": null,
+  "flows": 58
+ },
+ {
+  "t": 41.052,
+  "time": "02:08:13",
+  "type": "info",
+  "state": "baseline",
+  "family": null,
+  "detail": "ET INFO Microsoft Connection Test",
+  "dest": "23.220.206.14",
+  "flows": null
+ },
+ {
+  "t": 50.0,
+  "time": "02:08:22",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "30 new flows",
+  "dest": null,
+  "flows": 30
+ },
+ {
+  "t": 60.0,
+  "time": "02:08:32",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "27 new flows",
+  "dest": null,
+  "flows": 27
+ },
+ {
+  "t": 70.0,
+  "time": "02:08:42",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "9 new flows",
+  "dest": null,
+  "flows": 9
+ },
+ {
+  "t": 80.0,
+  "time": "02:08:52",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 90.0,
+  "time": "02:09:02",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 100.0,
+  "time": "02:09:12",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "9 new flows",
+  "dest": null,
+  "flows": 9
+ },
+ {
+  "t": 110.0,
+  "time": "02:09:22",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "6 new flows",
+  "dest": null,
+  "flows": 6
+ },
+ {
+  "t": 120.0,
+  "time": "02:09:32",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 130.0,
+  "time": "02:09:42",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "27 new flows",
+  "dest": null,
+  "flows": 27
+ },
+ {
+  "t": 140.0,
+  "time": "02:09:52",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "22 new flows",
+  "dest": null,
+  "flows": 22
+ },
+ {
+  "t": 150.0,
+  "time": "02:10:02",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 160.0,
+  "time": "02:10:12",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 170.0,
+  "time": "02:10:22",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 180.0,
+  "time": "02:10:32",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "31 new flows",
+  "dest": null,
+  "flows": 31
+ },
+ {
+  "t": 190.0,
+  "time": "02:10:42",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 200.0,
+  "time": "02:10:52",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 210.0,
+  "time": "02:11:02",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 220.0,
+  "time": "02:11:12",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 230.0,
+  "time": "02:11:22",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 240.0,
+  "time": "02:11:32",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 250.0,
+  "time": "02:11:42",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 260.0,
+  "time": "02:11:52",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 270.0,
+  "time": "02:12:02",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 280.0,
+  "time": "02:12:12",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 290.0,
+  "time": "02:12:22",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 300.0,
+  "time": "02:12:32",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 310.0,
+  "time": "02:12:42",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 320.0,
+  "time": "02:12:52",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 330.0,
+  "time": "02:13:02",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 340.0,
+  "time": "02:13:12",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 350.0,
+  "time": "02:13:22",
+  "type": "activity",
+  "state": "baseline",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 354.117,
+  "time": "02:13:26",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "172.64.155.76",
+  "flows": null
+ },
+ {
+  "t": 360.0,
+  "time": "02:13:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "8 new flows",
+  "dest": null,
+  "flows": 8
+ },
+ {
+  "t": 370.0,
+  "time": "02:13:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 380.0,
+  "time": "02:13:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 390.0,
+  "time": "02:14:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 400.0,
+  "time": "02:14:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 410.0,
+  "time": "02:14:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "8 new flows",
+  "dest": null,
+  "flows": 8
+ },
+ {
+  "t": 413.692,
+  "time": "02:14:26",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "146.59.71.167",
+  "flows": null
+ },
+ {
+  "t": 418.703,
+  "time": "02:14:31",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "ET DNS Query for .cc TLD",
+  "dest": "172.16.8.8",
+  "flows": null
+ },
+ {
+  "t": 420.0,
+  "time": "02:14:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "7 new flows",
+  "dest": null,
+  "flows": 7
+ },
+ {
+  "t": 430.0,
+  "time": "02:14:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "10 new flows",
+  "dest": null,
+  "flows": 10
+ },
+ {
+  "t": 438.442,
+  "time": "02:14:50",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "38.182.168.246",
+  "flows": null
+ },
+ {
+  "t": 440.0,
+  "time": "02:14:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 450.0,
+  "time": "02:15:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 460.0,
+  "time": "02:15:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 465.819,
+  "time": "02:15:18",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Unexpected Request body",
+  "dest": "45.130.41.161",
+  "flows": null
+ },
+ {
+  "t": 470.0,
+  "time": "02:15:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 470.503,
+  "time": "02:15:22",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "45.130.41.161",
+  "flows": null
+ },
+ {
+  "t": 480.0,
+  "time": "02:15:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 490.0,
+  "time": "02:15:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 494.107,
+  "time": "02:15:46",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "172.67.162.153",
+  "flows": null
+ },
+ {
+  "t": 494.108,
+  "time": "02:15:46",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Response excessive header repetition",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 500.0,
+  "time": "02:15:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "13 new flows",
+  "dest": null,
+  "flows": 13
+ },
+ {
+  "t": 510.0,
+  "time": "02:16:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "6 new flows",
+  "dest": null,
+  "flows": 6
+ },
+ {
+  "t": 519.836,
+  "time": "02:16:12",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "121.54.163.148",
+  "flows": null
+ },
+ {
+  "t": 520.0,
+  "time": "02:16:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 530.0,
+  "time": "02:16:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "8 new flows",
+  "dest": null,
+  "flows": 8
+ },
+ {
+  "t": 540.0,
+  "time": "02:16:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 550.0,
+  "time": "02:16:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 556.462,
+  "time": "02:16:48",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "199.192.27.50",
+  "flows": null
+ },
+ {
+  "t": 560.0,
+  "time": "02:16:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 570.0,
+  "time": "02:17:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 574.19,
+  "time": "02:17:06",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Unexpected Request body",
+  "dest": "66.29.149.91",
+  "flows": null
+ },
+ {
+  "t": 580.0,
+  "time": "02:17:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 581.05,
+  "time": "02:17:13",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "66.29.149.91",
+  "flows": null
+ },
+ {
+  "t": 590.0,
+  "time": "02:17:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "12 new flows",
+  "dest": null,
+  "flows": 12
+ },
+ {
+  "t": 600.0,
+  "time": "02:17:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "12 new flows",
+  "dest": null,
+  "flows": 12
+ },
+ {
+  "t": 606.236,
+  "time": "02:17:38",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "183.90.186.205",
+  "flows": null
+ },
+ {
+  "t": 610.0,
+  "time": "02:17:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 620.0,
+  "time": "02:17:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "14 new flows",
+  "dest": null,
+  "flows": 14
+ },
+ {
+  "t": 630.0,
+  "time": "02:18:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "9 new flows",
+  "dest": null,
+  "flows": 9
+ },
+ {
+  "t": 636.476,
+  "time": "02:18:08",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "156.247.51.39",
+  "flows": null
+ },
+ {
+  "t": 640.0,
+  "time": "02:18:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "6 new flows",
+  "dest": null,
+  "flows": 6
+ },
+ {
+  "t": 650.0,
+  "time": "02:18:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "19 new flows",
+  "dest": null,
+  "flows": 19
+ },
+ {
+  "t": 654.668,
+  "time": "02:18:27",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Response excessive header repetition",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 657.191,
+  "time": "02:18:29",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Response excessive header repetition",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 659.118,
+  "time": "02:18:31",
+  "type": "download",
+  "state": "c2",
+  "family": null,
+  "detail": "ET HUNTING SUSPICIOUS Dotted Quad Host MZ Response",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 659.592,
+  "time": "02:18:32",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "172.67.219.130",
+  "flows": null
+ },
+ {
+  "t": 659.593,
+  "time": "02:18:32",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Response excessive header repetition",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 660.0,
+  "time": "02:18:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 670.0,
+  "time": "02:18:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "10 new flows",
+  "dest": null,
+  "flows": 10
+ },
+ {
+  "t": 680.0,
+  "time": "02:18:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 681.183,
+  "time": "02:18:53",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Unexpected Request body",
+  "dest": "81.2.196.19",
+  "flows": null
+ },
+ {
+  "t": 683.803,
+  "time": "02:18:56",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "81.2.196.19",
+  "flows": null
+ },
+ {
+  "t": 690.0,
+  "time": "02:19:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 700.0,
+  "time": "02:19:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 707.502,
+  "time": "02:19:19",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "104.21.76.210",
+  "flows": null
+ },
+ {
+  "t": 710.0,
+  "time": "02:19:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "5 new flows",
+  "dest": null,
+  "flows": 5
+ },
+ {
+  "t": 720.0,
+  "time": "02:19:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 728.279,
+  "time": "02:19:40",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Response excessive header repetition",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 730.0,
+  "time": "02:19:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 730.86,
+  "time": "02:19:43",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "104.21.42.23",
+  "flows": null
+ },
+ {
+  "t": 730.861,
+  "time": "02:19:43",
+  "type": "info",
+  "state": "c2",
+  "family": null,
+  "detail": "SURICATA HTTP Response excessive header repetition",
+  "dest": "172.16.8.49",
+  "flows": null
+ },
+ {
+  "t": 740.0,
+  "time": "02:19:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 750.0,
+  "time": "02:20:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "2 new flows",
+  "dest": null,
+  "flows": 2
+ },
+ {
+  "t": 755.126,
+  "time": "02:20:07",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "89.110.89.25",
+  "flows": null
+ },
+ {
+  "t": 760.0,
+  "time": "02:20:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "1 new flows",
+  "dest": null,
+  "flows": 1
+ },
+ {
+  "t": 767.257,
+  "time": "02:20:19",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "172.64.155.76",
+  "flows": null
+ },
+ {
+  "t": 770.0,
+  "time": "02:20:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 780.0,
+  "time": "02:20:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 790.0,
+  "time": "02:20:42",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 791.408,
+  "time": "02:20:43",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "146.59.71.167",
+  "flows": null
+ },
+ {
+  "t": 800.0,
+  "time": "02:20:52",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ },
+ {
+  "t": 810.0,
+  "time": "02:21:02",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "3 new flows",
+  "dest": null,
+  "flows": 3
+ },
+ {
+  "t": 817.403,
+  "time": "02:21:09",
+  "type": "c2",
+  "state": "c2",
+  "family": "FormBook",
+  "detail": "ET MALWARE FormBook CnC Checkin (GET) M5",
+  "dest": "38.182.168.246",
+  "flows": null
+ },
+ {
+  "t": 820.0,
+  "time": "02:21:12",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 830.0,
+  "time": "02:21:22",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "0 new flows",
+  "dest": null,
+  "flows": 0
+ },
+ {
+  "t": 840.0,
+  "time": "02:21:32",
+  "type": "activity",
+  "state": "c2",
+  "family": null,
+  "detail": "4 new flows",
+  "dest": null,
+  "flows": 4
+ }
+]
