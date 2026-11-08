@@ -1,0 +1,7 @@
+*.pcap
+*.pcapng
+*.zip
+*.7z
+output/
+*.wav
+*.bank
