@@ -1,13 +1,14 @@
 """Receives timeline events over UDP and drives the FMOD score.
 
-    python receiver.py           listen on UDP 9500 for timeline.py --play
-    python receiver.py --demo    cycle baseline -> infection -> c2 without the laptop
+    python listener.py           listen on UDP 9500 for timeline.py --play
+    python listener.py --demo    cycle baseline -> infection -> c2 without the laptop
 
-Ctrl+C stops it cleanly.
+Press q (or Ctrl+C) to stop.
 """
 import argparse
 import ctypes
 import json
+import msvcrt
 import os
 import socket
 import time
@@ -101,9 +102,16 @@ def handle(score, msg):
         score.checkin()
 
 
+def check_quit():
+    # press q to exit
+    if msvcrt.kbhit() and msvcrt.getwch().lower() == "q":
+        raise KeyboardInterrupt
+
+
 def wait(score, seconds):
     end = time.time() + seconds
     while time.time() < end:
+        check_quit()
         score.update()
         time.sleep(0.02)
 
@@ -123,7 +131,7 @@ def listen(score):
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     sock.bind(("0.0.0.0", PORT))
     sock.settimeout(0.02)  # short timeout keeps FMOD updating and lets Ctrl+C through
-    print(f"Listening on UDP {PORT}, Ctrl+C to stop")
+    print(f"Listening on UDP {PORT}, press q to stop")
     try:
         while True:
             try:
@@ -133,6 +141,7 @@ def listen(score):
                 pass
             except ValueError:
                 print("  (skipped bad message)")
+            check_quit()
             score.update()
     finally:
         sock.close()
