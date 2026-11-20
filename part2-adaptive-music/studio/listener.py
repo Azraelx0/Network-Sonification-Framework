@@ -19,7 +19,7 @@ FMOD_VERSION = 0x00020315  # must match the installed FMOD Engine (2.03.15)
 HERE = Path(__file__).resolve().parent
 BANKS = HERE / "fmod" / "Build" / "Desktop"
 API = Path(r"C:\Program Files (x86)\FMOD SoundSystem\FMOD Studio API Windows\api")
-
+LEVELS = {"baseline": 0.0, "infection": 1.0, "c2": 2.0}
 
 def load_fmod():
     for d in (HERE / "lib", API / "core" / "lib" / "x64", API / "studio" / "lib" / "x64"):
@@ -67,10 +67,10 @@ class Score:
         return desc
 
     def set_state(self, label):
-        if label == self.state:
+        if label == self.state or label not in LEVELS:
             return
-        self.check(self.fmod.FMOD_Studio_EventInstance_SetParameterByNameWithLabel(
-            self.music, b"State", label.encode(), 0), f"set State={label}")
+        self.check(self.fmod.FMOD_Studio_EventInstance_SetParameterByName(
+            self.music, b"Level", ctypes.c_float(LEVELS[label]), 0), f"set Level for {label}")
         self.state = label
         print(f"  >> State = {label}")
 
