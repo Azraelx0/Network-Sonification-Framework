@@ -5,7 +5,7 @@
 			<value>Checkin</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c1b2c952-68df-4f3c-8292-47af40b3beac}</destination>
@@ -90,7 +90,7 @@
 	<object class="MixerBusPanner" id="{2f75128c-daa5-4ab7-9096-7a2d72f32af0}" />
 	<object class="SingleSound" id="{dfbb7e86-55dc-467d-bb44-491d8b8d3ee5}">
 		<property name="length">
-			<value>0.14999999999999999</value>
+			<value>0.80000000000000004</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{260513af-e620-49c4-aaab-8903ceeaedec}</destination>
