@@ -6,3 +6,7 @@ output/
 *.wav
 *.bank
 **/.unsaved/
+**/.cache/
+**/.user/
+**/Build/
+__pycache__/
