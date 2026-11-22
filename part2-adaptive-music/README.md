@@ -69,7 +69,7 @@ Everything is in **D minor at 86 BPM**. Loops are 4 bars (11.163 s) or 8 bars (2
 
 ## Sounds
 
-All sounds are real recordings: Looperman loops and a CC0 orchestral sample. They are **not committed**, because Looperman's license doesn't allow redistributing loops as-is. The loops and credits are listed in [`docs/sources.md`](docs/sources.md).
+All sounds are recordings from Looperman. They are **not committed**, because Looperman's license doesn't allow redistributing loops as-is. The loops and credits are listed in [`docs/sources.md`](docs/sources.md).
 
 `studio/tools/` holds the scripts that turned the downloaded loops into the five files FMOD uses (tempo matching, declicking, level balancing, previews). They need `numpy`, `soundfile`, `librosa` and the `rubberband` CLI.
 
@@ -87,8 +87,8 @@ python3 tools/build_checkin.py <pizz.wav> <stems_dir> <threat.wav> <out_dir>
 
 ## Known limitations
 
-- `listener.py` is Windows-only (the FMOD DLLs, `msvcrt` for the q key).
-- Check-ins play when they arrive; they aren't snapped to the beat yet.
+- `listener.py` is Windows-only (the FMOD DLLs).
+- Check-ins play when they arrive as they aren't snapped to the beat yet.
 - `timeline.py` only records when a flow **starts**, so a long C2 session shows up as one event (see Natureforce in the analysis).
 - Any `ET MALWARE` alert moves the state straight to `c2`, even without a C2 alert.
 - Natureforce's RMS label comes from the analyst's alert only. ET Open caught the download but not the C2.
