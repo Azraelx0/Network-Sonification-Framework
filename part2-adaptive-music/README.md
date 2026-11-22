@@ -69,15 +69,23 @@ Everything is in **D minor at 86 BPM**. Loops are 4 bars (11.163 s) or 8 bars (2
 
 ## Sounds
 
-All sounds are recordings from Looperman. They are **not committed**, because Looperman's license doesn't allow redistributing loops as-is. The loops and credits are listed in [`docs/sources.md`](docs/sources.md).
+The sounds are Looperman loops plus one CC0 sample from Freesound. They are **not committed**, because Looperman's license doesn't allow redistributing loops as-is. The loops and credits are listed in [`docs/sources.md`](docs/sources.md).
 
-`studio/tools/` holds the scripts that turned the downloaded loops into the five files FMOD uses (tempo matching, declicking, level balancing, previews). They need `numpy`, `soundfile`, `librosa` and the `rubberband` CLI.
+### Recreating the sound files
+
+`studio/tools/` has optional helper scripts that make recreating the project easier. They turn the downloaded loops into the four files FMOD uses, with the same edits as the originals: matching loop lengths, two small tempo changes (pitch unchanged), tiny fades so loops don't click when they repeat, and volume balancing. No other effects are applied and the mixing itself is done in FMOD.
+
+1. Download the loops in `docs/sources.md` into one folder, keeping Looperman's file names, and download the pizzicato from Freesound.
+2. Run the scripts (needs Python with `numpy` and `soundfile`; `build_threat.py` also needs the [Rubber Band](https://breakfastquay.com/rubberband/) command-line tool):
 
 ```bash
-python3 tools/build_stems.py <loops_dir> <out_dir>                     # baseline, drums, tension
-python3 tools/build_threat.py <loops_dir> <out_dir> <stems_dir>         # threat options + previews
-python3 tools/build_checkin.py <pizz.wav> <stems_dir> <threat.wav> <out_dir>
+cd part2-adaptive-music/studio
+python3 tools/build_stems.py <loops_dir> sounds          # baseline.wav, drums.wav, tension.wav
+python3 tools/build_threat.py <loops_dir> sounds         # threat.wav
+python3 tools/build_checkin.py <pizzicato.wav> sounds sounds/threat.wav sounds   # checkin.wav + a preview
 ```
+
+3. Copy the four WAVs into `fmod/Assets`, open the project in FMOD Studio and build (F7).
 
 ## More
 
