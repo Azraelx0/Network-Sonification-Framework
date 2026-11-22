@@ -4,17 +4,17 @@ How the score is meant to work, why, and what was tried and dropped along the wa
 
 ## Goals
 
-1. **Sound good enough to leave on all day.** If it's tiring or ugly, nobody listens, and the information doesn't matter.
+1. **Sound good enough to leave on all day.** If it's tiring or ugly, nobody will want to listen, and the information doesn't matter.
 2. **Keep the attack information.** A listener should be able to recover what happened from the audio alone.
-3. **Work live.** The same system should run on live traffic, not only on rendered files.
+3. **Work live.** The same system should run on live traffic and not only on pre-rendered files.
 
 ## Principles
 
-- **Alert by change, not loudness.** People tune out steady sound, and loud alerts cause alert fatigue. Each state should sound different, not just louder.
-- **Match intensity to evidence.** An INFO alert should barely register; an ET MALWARE alert should clearly change the music.
+- **Alert by change rather than volume.** People tune out steady sound, and loud alerts can cause alert fatigue. Each state should sound different to clearly indicate change while maintaining good sound.
+- **Match intensity to evidence.** An INFO alert should barely register whil an ET MALWARE alert should clearly change the music.
 - **Leave space.** Part 1 showed that dense sound masks events. A sparse baseline leaves room for changes to stand out.
 - **One musical element per fact.** Two facts never share a sound dimension, so it's always clear what changed.
-- **The sound is an attention cue, not a dashboard.** The music should tell an analyst that something changed and roughly what kind of thing. Exact IPs, hostnames and hashes stay on screen.
+- **The sound is an attention cue and not a dashboard.** The music should tell an analyst that something changed and roughly what kind of thing. Exact IPs, hostnames and hashes stay on screen.
 
 ## The facts the music has to carry
 
@@ -32,9 +32,9 @@ Based on what SOC monitoring tools usually report and what an analyst asks durin
 | 8 | Key one-time events | FormBook's second EXE download |
 | 9 | Overall activity level | new flows per 10 s |
 
-Left out on purpose: exact indicators (IPs, domains, hashes), which ears can't carry, and the number of infected hosts, which can't be tested with one victim per capture.
+Left out on purpose: exact indicators (IPs, domains, hashes), which ears can't carry, and the number of infected hosts, which can't be tested, at least with these malware captures.
 
-"Behavior type" replaced an earlier "which malware family" goal. Analysts usually get family names from signatures, not from the traffic itself, so recognizing behavior is the more realistic thing to test.
+"Behavior type" replaced an earlier "which malware family" goal. Since analysts usually get family names from signatures, not from the traffic itself, so recognizing behavior is the more realistic thing to test.
 
 ## Mapping
 
@@ -50,21 +50,21 @@ Left out on purpose: exact indicators (IPs, domains, hashes), which ears can't c
 | 8 | Key one-time events | A distinct short motif | Planned |
 | 9 | Activity level | Extra percussion density | Planned |
 
-Stage, evidence and check-ins are always active; the rest only sound when that behavior is happening, to avoid clutter.
+Stage, evidence and check-ins are always active, while the rest only sounds when that behavior is happening so as to avoid clutter.
 
 **Snapping check-ins to the beat** will move each one by up to one sixteenth note (about 0.18 s at 86 BPM). Beacon intervals are measured in seconds, so the rhythm should survive. This is a deliberate trade between accuracy and musicality, and the amount it shifts timing will be measured.
 
 ## Score
 
-**Key and tempo:** D minor at 86 BPM. The main reference (Ours Samplus, "Behind the Moon") is in E minor at about 87 BPM, but D minor at 86 had far more matching loops, and the feel matters more than the exact key. Loops at 172 BPM lock in as double-time.
+**Key and tempo:** D minor at 86 BPM. Originally, I wanted to create a similar sound to tracks from Ours Samplus, one of which was in E minor at about 87 BPM, but D minor at 86 had far more matching loops, and the feel matters more than the exact key. Loops at 172 BPM lock in as double-time.
 
 **Layers:**
 
 | State | What you hear |
 |---|---|
 | Baseline | Jazz-hop groove: Rhodes, upright bass, acoustic guitar, soft boom-bap drums |
-| Infection | A dark violin joins (8 bars, with an exotic note that adds unease) |
-| C2 | A dark orchestra enters: a driving cello pattern, dark low strings, a second string layer and taiko. The baseline drops 4 dB, and the drums keep going. Every C2 event plays a plucked cello note on D. |
+| Infection | A dark violin joins (8 bars) |
+| C2 | A dark orchestra feel: a driving cello pattern, dark low strings, a second string layer and taiko. The baseline drops 4 dB, and the drums keep going. Every C2 event plays a plucked cello note on D. |
 
 C2 is meant to sound like the same piece getting darker, not a different song. It's recognizable because it adds **low register and driving rhythm**, while the violin in infection is sustained and high.
 
@@ -80,7 +80,7 @@ C2 is meant to sound like the same piece getting darker, not a different song. I
 | All loops always running, faded by volume | Layers stay on the beat whenever they enter, so tension and threat can be rhythmic | Layers starting when their state begins (they'd start off the beat) |
 | Real recorded loops only | Synthesized sounds felt fake (Part 1, and a synthesized v1 here) | Procedurally generated tones |
 | Jazz-hop baseline | Warm and easy to leave on, in the style of Ours Samplus and Tokyo jazz-hop | Busier chillhop |
-| Orchestral C2 | Escalates the violin's mood and blends with the groove while still sounding clearly different | **Phonk** (tested: cowbell melody, 808 drums). It felt out of place: a different genre, double-time and much louder. |
+| Orchestral C2 | Escalates the violin's mood and blends with the groove while still sounding clearly different | **Phonk** (tested: cowbell melody, 808 drums). It felt out of place like a different genre, double-time and much louder. |
 | Pizzicato check-in | Short, pitched and orchestral. It sits above the low-heavy C2 mix without being loud, and it can be retuned per server. | A synthesized blip |
 | Machine-learning polish only as a separate stage | Keeps the live-versus-polished comparison clean | Generating the live layers with AI |
 
