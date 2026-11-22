@@ -34,8 +34,6 @@ Audio files are not committed. Looperman loops are royalty-free for registered u
 | threat | [Jysk Strings](https://www.looperman.com/loops/detail/400239/jysk-strings-free-88bpm-orchestral-strings-loop) | Antronical | 88 / Dm | stretched to 86 |
 | threat | [Rising Tension - Taiko Drums](https://www.looperman.com/loops/detail/339315/rising-tension-taiko-drums-170bpm-free-170bpm-cinematic-drum-loop) | HennieDame | 170 | stretched to 172 |
 
-Antronical asks for credit on their loops.
-
 ### One-shots
 
 | Used in | Sound | Author | License |
@@ -49,8 +47,3 @@ Antronical asks for credit on their loops.
 | [Six Days - Drums 808](https://www.looperman.com/loops/detail/433723/six-days-drums-808-free-172bpm-trap-drum-loop) | T3Voon | Phonk C2 layer, felt out of place |
 | [Memphis Cowbell](https://www.looperman.com/loops/detail/398830/memphis-cowbell-free-165bpm-trap-bells-loop) | IIMSICK | Phonk C2 layer, felt out of place |
 | [Rusta Strings](https://www.looperman.com/loops/detail/400133/rusta-strings-free-88bpm-cinematic-strings-loop) | Antronical | Threat option B, too bright |
-
-## Musical references
-
-- *Cascadia*, Aaron Alden with Palo Alto Networks: an album made from security telemetry (composed by hand, not live)
-- Ours Samplus, especially "Behind the Moon", "Blue Bird", "Minor Alpha" and "Open a Door" (with Boztown)
