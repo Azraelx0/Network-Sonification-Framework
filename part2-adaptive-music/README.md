@@ -83,7 +83,7 @@ python3 tools/build_checkin.py <pizz.wav> <stems_dir> <threat.wav> <out_dir>
 
 - [`docs/design.md`](docs/design.md): the facts the music has to carry, the mapping, sound design decisions and what was rejected
 - [`analysis/timeline-summary.md`](analysis/timeline-summary.md): what each capture's timeline looks like, and what that means for the music
-- [`Field Notes/`](Field%20Notes): session notes
+- [`Field Notes/`](Field-Notes): session notes
 
 ## Known limitations
 
