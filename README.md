@@ -24,7 +24,7 @@ part2-adaptive-music/     Part 2: attack timelines driving an adaptive score
   timelines/              timelines for each capture (JSON)
   analysis/               timeline statistics
   docs/                   design, sources and credits
-  Field Notes/            session notes
+  Field-Notes/            session notes
 ```
 
 ## Part 1: Soundscapes
