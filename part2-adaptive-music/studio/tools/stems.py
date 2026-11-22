@@ -1,8 +1,8 @@
-"""Builds baseline.wav, baseline_with_horns.wav, drums.wav and tension.wav (D minor, 86 BPM).
+"""Builds baseline.wav, drums.wav and tension.wav (D minor, 86 BPM).
 
     python3 build_stems.py <loops_dir> <out_dir>
 
-loops_dir holds the downloaded Looperman WAVs (matched by name). The horns loop is optional.
+loops_dir holds the downloaded Looperman WAVs (matched by name).
 Needs numpy and soundfile.
 """
 import sys
@@ -66,8 +66,5 @@ jazz_drums = at(fit(load("east-side-90s"), LEN4), -20)
 violin = at(declick(fit(load("cubeats-type-violin"), 2 * LEN4)), -27)
 
 save("baseline.wav", rhodes + bass + guitar)
-if any(UP.glob("*skipit-horns*.wav")):
-    horns = at(declick(fit(load("skipit-horns"), LEN4)), -30)
-    save("baseline_with_horns.wav", rhodes + bass + guitar + horns)
 save("drums.wav", jazz_drums)
 save("tension.wav", violin)
