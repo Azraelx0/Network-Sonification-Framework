@@ -11,7 +11,7 @@ How the score is meant to work, why, and what was tried and dropped along the wa
 ## Principles
 
 - **Alert by change rather than volume.** People tune out steady sound, and loud alerts can cause alert fatigue. Each state should sound different to clearly indicate change while maintaining good sound.
-- **Match intensity to evidence.** An INFO alert should barely register whil an ET MALWARE alert should clearly change the music.
+- **Match intensity to evidence.** An INFO alert should barely register while an ET MALWARE alert should clearly change the music.
 - **Leave space.** Part 1 showed that dense sound masks events. A sparse baseline leaves room for changes to stand out.
 - **One musical element per fact.** Two facts never share a sound dimension, so it's always clear what changed.
 - **The sound is an attention cue and not a dashboard.** The music should tell an analyst that something changed and roughly what kind of thing. Exact IPs, hostnames and hashes stay on screen.
