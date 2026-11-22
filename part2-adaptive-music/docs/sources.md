@@ -26,7 +26,6 @@ Audio files are not committed. Looperman loops are royalty-free for registered u
 | baseline | [Clocks - Epiano - Part 4](https://www.looperman.com/loops/detail/436900/clocks-epiano-part-4-free-86bpm-rnb-rhodes-piano-loop) | prodTebas | 86 / Dm | level |
 | baseline | [Clocks - Acoustic Bass - Part 1](https://www.looperman.com/loops/detail/436896/clocks-acoustic-bass-part-1-free-86bpm-rnb-bass-guitar-loop) | prodTebas | 86 / Dm | level, declick (ends mid-note) |
 | baseline | [Clocks - Guitar Chords - Part 2](https://www.looperman.com/loops/detail/436898/clocks-guitar-chords-part-2-free-86bpm-rnb-acoustic-guitar-loop) | prodTebas | 86 / Dm | level |
-| baseline (optional) | [Skipit Horns](https://www.looperman.com/loops/detail/406142/skipit-horns-free-86bpm-soul-brass-loop) | Antronical | 86 / Dm | level |
 | drums | [East Side 90s](https://www.looperman.com/loops/detail/432181/east-side-90s-free-86bpm-boom-bap-drum-loop) | TheAttic | 86 | 2 bars repeated to 4 |
 | tension | [Southside x Cubeats Type Violin](https://www.looperman.com/loops/detail/371921/southside-x-cubeats-type-violin-free-86bpm-trap-violin-loop) | DaraOnTheTrack | 86 / Dm | level, declick |
 | threat | [James Blake Cello](https://www.looperman.com/loops/detail/429206/james-blake-cello-free-172bpm-electronic-strings-loop) | Tham0s | 172 / Dm | level |
