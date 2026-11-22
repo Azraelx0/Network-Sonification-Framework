@@ -73,7 +73,7 @@ The sounds are Looperman loops plus one CC0 sample from Freesound. They are **no
 
 ### Recreating the sound files
 
-`studio/tools/` has optional helper scripts that make recreating the project easier. They turn the downloaded loops into the four files FMOD uses, with the same edits as the originals: matching loop lengths, two small tempo changes (pitch unchanged), tiny fades so loops don't click when they repeat, and volume balancing. No other effects are applied and the mixing itself is done in FMOD.
+`studio/tools/` has optional helper scripts that make recreating the project easier. They turn the downloaded loops into the five files FMOD uses, with the same edits as the originals: matching loop lengths, two small tempo changes (pitch unchanged), tiny fades so loops don't click when they repeat, and volume balancing. No other effects are applied and the mixing itself is done in FMOD.
 
 1. Download the loops in `docs/sources.md` into one folder, keeping Looperman's file names, and download the pizzicato from Freesound.
 2. Run the scripts (needs Python with `numpy` and `soundfile`; `build_threat.py` also needs the [Rubber Band](https://breakfastquay.com/rubberband/) command-line tool):
@@ -85,7 +85,7 @@ python3 tools/build_threat.py <loops_dir> sounds         # threat.wav
 python3 tools/build_checkin.py <pizzicato.wav> sounds sounds/threat.wav sounds   # checkin.wav + a preview
 ```
 
-3. Copy the four WAVs into `fmod/Assets`, open the project in FMOD Studio and build (F7).
+3. Copy the five WAVs into `fmod/Assets`, open the project in FMOD Studio and build (F7).
 
 ## More
 
