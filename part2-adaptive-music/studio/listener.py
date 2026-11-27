@@ -20,6 +20,7 @@ HERE = Path(__file__).resolve().parent
 BANKS = HERE / "fmod" / "Build" / "Desktop"
 API = Path(r"C:\Program Files (x86)\FMOD SoundSystem\FMOD Studio API Windows\api")
 LEVELS = {"baseline": 0.0, "infection": 1.0, "c2": 2.0}
+START = None
 
 def load_fmod():
     for d in (HERE / "lib", API / "core" / "lib" / "x64", API / "studio" / "lib" / "x64"):
@@ -94,8 +95,12 @@ class Score:
 
 
 def handle(score, msg):
+    global START
+    if START is None:
+        START = time.time()
     if msg.get("type") != "activity":
-        print(f"{msg.get('time', ''):<20} {msg.get('type', ''):<9} {msg.get('state', ''):<10} {msg.get('detail', '')}")
+        print(f"{time.time() - START:7.1f}s  {msg.get('time', ''):<10} {msg.get('type', ''):<9} "
+              f"{msg.get('state', ''):<10} {msg.get('detail', '')}")
     if msg.get("state"):
         score.set_state(msg["state"])
     if msg.get("type") == "c2":
